@@ -1,0 +1,50 @@
+body{
+    /* background-color: 264653; */
+    background-color: #264653;
+    /* height: 900px;
+    width: 700px; */
+    /* align-self: center;  */
+    /* margin: 30px 60px; */
+    /* border: 15px; */
+    /* border-color: rgb(219, 115, 233); */
+    /* background-color: aquamarine; */
+}
+#duki_hatma{ 
+    /* margin:30px 70px ; */
+    margin:auto;
+
+    width: 900px;
+    height: 960px;
+    /* align-items: center; */
+    /* margin: auto; */
+    border: 5px;
+    background-color: #2a9d8f;
+    
+
+}
+.contain ,#name{
+    margin: 25px 50px;
+    text-shadow: 2px 4px 4px #ffafcc;
+}
+.detail{
+    text-shadow: none;
+}
+/* #image{
+} */
+#image{
+    width: 60px;
+    height: auto;
+    /* margin-bottom: 25px; */
+}
+
+#image img{
+    margin: 15px 10px;
+    /* margin-top: 25px; */
+    border-spacing: 5px;
+    border-radius: 5px;
+    border-color: gainsboro;
+
+}
+.detail{
+    margin-left: 20px ;
+}
